@@ -1,3 +1,8 @@
+# A complete reference of key and button names for Wayfire.
+# The document is based on [`input-event-codes.h`] from the Linux kernel.
+#
+# https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/tree/include/uapi/linux/input-event-codes.h
+
 BTN_0
 BTN_1
 BTN_2
